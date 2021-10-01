@@ -3,11 +3,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=avi-avinash&label=Profile views&color=green&style=plastic" alt="avi-avinash" /> 
 </p>
-
-
 <br/>
 <br/>
-
 
 - 🔭 I’m currently working on my Academics as well as on cp.
 - 🌱 I’m currently learning more about cp & Algorithms.
@@ -17,8 +14,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours on cp everyday.        
            
- 
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
