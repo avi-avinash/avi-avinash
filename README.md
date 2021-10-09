@@ -3,8 +3,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=avi-avinash&label=Profile views&color=green&style=plastic" alt="avi-avinash" /> 
 </p>
-<br/>
-<br/>
+
 
 <a href="#">
   <img align="left" alt="Avi-Avinash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
