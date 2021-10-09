@@ -29,6 +29,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="#">
   <img align="left" alt="Avi-Avinash's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on my Academics as well as on cp.
 - 🌱 I’m currently learning more about cp & Algorithms.
