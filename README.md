@@ -6,6 +6,31 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 <br/>
 
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Avi-Avinash's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
 - 🔭 I’m currently working on my Academics as well as on cp.
 - 🌱 I’m currently learning more about cp & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow]
